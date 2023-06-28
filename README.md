@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Electrical and Electronics Engineering! I also learning Python, C, Quauntum Meachine Learning.
+- 🌱 I’m currently learning Electrical and Electronics Engineering! I also learning Python, C, and Quantum Computing.
 
 - 📫 How to reach me: hkjhk3626@gmail.com
